@@ -1,0 +1,10 @@
+git init -- to initialize git
+git status -- to check the status of the files to include
+git add testing.docx -- to add testing.docx 
+git add * -- to add all pending files to git bash
+git remote add origin https://github.com/Madan011/Test.git -- to add origin
+git commit -m "insert message here" -- to commit the files
+git config --global user.name "madan011" -- to configure the git account to bash 
+git config --global user.email "madan.k.paudel@gmail.com" -- to configure the git email to bash
+git push -u origin master
+
